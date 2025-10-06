@@ -64,6 +64,12 @@ data/
         < Wird im Laufe des Workflows gefüllt >
     translation/
         < Wird im Laufe des Workflows gefüllt >
+1 - Building Complexes.ipynb
+1a - translate.ipynb
+2 - Monasteries.ipynb
+3 - Connect Monasteries and Building Complexes.ipynb
+4 - Connect Monasteries and Orders.ipynb
+helper_functions.py
 ```
 Informationen zu den einzelnen Dateien finden sich in den Readme-Dateien der Unterordner.
 
