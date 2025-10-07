@@ -17,6 +17,7 @@ https://database.factgrid.de/entity/Q469424,236
 https://database.factgrid.de/entity/Q160278,254
 https://database.factgrid.de/entity/Q469675,343
 https://database.factgrid.de/entity/Q469418,349
+https://database.factgrid.de/entity/Q1750650,368
 https://database.factgrid.de/entity/Q21987,415
 https://database.factgrid.de/entity/Q469444,49
 https://database.factgrid.de/entity/Q469627,510
@@ -26,6 +27,7 @@ https://database.factgrid.de/entity/Q470548,637
 https://database.factgrid.de/entity/Q518732,70
 https://database.factgrid.de/entity/Q369645,78
 https://database.factgrid.de/entity/Q898125,99
+https://database.factgrid.de/entity/Q1750638,186
 https://database.factgrid.de/entity/Q254568,191
 https://database.factgrid.de/entity/Q469448,232
 https://database.factgrid.de/entity/Q400523,3248
@@ -49,6 +51,8 @@ https://database.factgrid.de/entity/Q1480633,396
 https://database.factgrid.de/entity/Q900470,279
 https://database.factgrid.de/entity/Q898029,3488
 https://database.factgrid.de/entity/Q1089858,419
+https://database.factgrid.de/entity/Q1750644,442
+https://database.factgrid.de/entity/Q1750637,746
 https://database.factgrid.de/entity/Q400540,784
 https://database.factgrid.de/entity/Q23240,10689
 https://database.factgrid.de/entity/Q21620,20359
@@ -97,6 +101,7 @@ https://database.factgrid.de/entity/Q97538,92588
 https://database.factgrid.de/entity/Q469630,975
 https://database.factgrid.de/entity/Q469511,2014
 https://database.factgrid.de/entity/Q961497,30002
+https://database.factgrid.de/entity/Q1750643,50003
 https://database.factgrid.de/entity/Q1034486,70010
 https://database.factgrid.de/entity/Q1306149,7002
 https://database.factgrid.de/entity/Q898012,1014
@@ -112,6 +117,7 @@ https://database.factgrid.de/entity/Q1351547,60041
 https://database.factgrid.de/entity/Q961495,60042
 https://database.factgrid.de/entity/Q469624,1030
 https://database.factgrid.de/entity/Q946140,1036
+https://database.factgrid.de/entity/Q1750642,1042
 https://database.factgrid.de/entity/Q898066,1052
 https://database.factgrid.de/entity/Q469450,2055
 https://database.factgrid.de/entity/Q469423,2061
@@ -169,13 +175,16 @@ https://database.factgrid.de/entity/Q898036,4073
 https://database.factgrid.de/entity/Q469548,4075
 https://database.factgrid.de/entity/Q1344718,4096
 https://database.factgrid.de/entity/Q165451,50218
+https://database.factgrid.de/entity/Q1750649,60191
 https://database.factgrid.de/entity/Q898044,60206
 https://database.factgrid.de/entity/Q1351549,60326
 https://database.factgrid.de/entity/Q393327,60327
 https://database.factgrid.de/entity/Q907880,60329
 https://database.factgrid.de/entity/Q922937,10250
+https://database.factgrid.de/entity/Q1750648,10318
 https://database.factgrid.de/entity/Q1351541,11236
 https://database.factgrid.de/entity/Q1379834,11261
+https://database.factgrid.de/entity/Q1750645,30059
 https://database.factgrid.de/entity/Q1266092,30145
 https://database.factgrid.de/entity/Q995364,30173
 https://database.factgrid.de/entity/Q400537,30198
@@ -208,6 +217,7 @@ https://database.factgrid.de/entity/Q898058,60471
 https://database.factgrid.de/entity/Q1351661,7124
 https://database.factgrid.de/entity/Q1351551,7141
 https://database.factgrid.de/entity/Q1351552,7142
+https://database.factgrid.de/entity/Q1750646,8262
 https://database.factgrid.de/entity/Q1351542,11335
 https://database.factgrid.de/entity/Q162547,3238
 https://database.factgrid.de/entity/Q898082,3240
@@ -237,6 +247,7 @@ https://database.factgrid.de/entity/Q1746753,857
 https://database.factgrid.de/entity/Q1746305,3427
 https://database.factgrid.de/entity/Q494079,3795
 https://database.factgrid.de/entity/Q251735,3982
+https://database.factgrid.de/entity/Q1750639,748
 https://database.factgrid.de/entity/Q424850,749
 https://database.factgrid.de/entity/Q400533,775
 https://database.factgrid.de/entity/Q898083,777
@@ -285,6 +296,7 @@ https://database.factgrid.de/entity/Q400412,3501
 https://database.factgrid.de/entity/Q400557,3502
 https://database.factgrid.de/entity/Q1214087,3524
 https://database.factgrid.de/entity/Q469604,3529
+https://database.factgrid.de/entity/Q1750641,3586
 https://database.factgrid.de/entity/Q633295,3595
 https://database.factgrid.de/entity/Q469552,3604
 https://database.factgrid.de/entity/Q469429,3624
@@ -294,6 +306,7 @@ https://database.factgrid.de/entity/Q898040,3773
 https://database.factgrid.de/entity/Q898096,3777
 https://database.factgrid.de/entity/Q633297,3781
 https://database.factgrid.de/entity/Q419587,3809
+https://database.factgrid.de/entity/Q1750647,3823
 https://database.factgrid.de/entity/Q1183403,3902
 https://database.factgrid.de/entity/Q898034,4071
 https://database.factgrid.de/entity/Q400418,4083
@@ -329,6 +342,7 @@ https://database.factgrid.de/entity/Q1351555,10742
 https://database.factgrid.de/entity/Q1207238,10747
 https://database.factgrid.de/entity/Q1351539,10844
 https://database.factgrid.de/entity/Q1379834,10852
+https://database.factgrid.de/entity/Q1750640,11665
 https://database.factgrid.de/entity/Q1746750,11773
 https://database.factgrid.de/entity/Q898016,20154
 https://database.factgrid.de/entity/Q898043,20165
