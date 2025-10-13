@@ -3,6 +3,6 @@ in diesem Ordner befinden sich nach Ausführen des Workflows die für den FactGr
 
 **Übersicht über die Dateien:**
 - `building_to_monastery`: Verbindungen zwischen Gebäudekomplexen und Religiösen Gemeinschaften. Kann nur erstellt werden, wenn `import_building_complexes` und `import_monasteries` bereits erstellt und importiert wurden.
-- `import_building_complexes`: Anweisungen für neu zu erstellende Gebäudekomplexe.
-- `import_monasteries`: Anweisungen für neu zu erstellende religiöse Gemeinschaften.
-- `monastery_to_order`: Verbindungen zwischen religiösen Gemeinschaften und religiösen Orden. Zuweisung von der Eigenschaft "ist ein(e)" basierend auf der Ordenszugehörigkeit.
+- `building_complexes/import_building_complexes`: Anweisungen für neu zu erstellende Gebäudekomplexe.
+- `monasteries/import_monasteries`: Anweisungen für neu zu erstellende religiöse Gemeinschaften.
+- `monastery_to_order/monastery_to_order`: Verbindungen zwischen religiösen Gemeinschaften und religiösen Orden. Zuweisung von der Eigenschaft "ist ein(e)" basierend auf der Ordenszugehörigkeit.

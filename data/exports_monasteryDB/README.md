@@ -2,6 +2,7 @@
 Dieser Ordner enthält Export-Dateien aus der Klosterdatenbank im Excel-Format. Die Exporte tragen den Namen der jeweiligen Tabelle. Die für den Prozess benötigten Tabellen sind:
 
 - `gs_external_url_type`: Liste aller externen Identifier in der Datenbank, inklusive Zuordnung zu einer FactGrid-Property, falls vorhanden.
+- `gs_id_external_urls_diocese.xlsx`: Zuordnung der Diözesen zu FactGrid-Items anhand ihrer ID
 - `gs_external_urls_monastery`: Verlinkung zwischen Klöstern in der Datenbank und externen URLs (zum Beispiel Wikidata, GND, ...)
 - `gs_monastery_location`: Verbindung zwischen Klöstern und Standorten. Die Standorte sind die Grundlage für die Erschaffung der Gebäudekomplex-Items.
 - `gs_monastery_order`: Verbindung zwischen Klöstern und religiösen Orden.
