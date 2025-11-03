@@ -149,7 +149,7 @@ def df_to_qs_v1(df:pd.DataFrame):
                 else:
                     out_str += qid
                 # ... then add information from the column to the line
-                out_str += f"\t{k}\t{item[k]}"
+                out_str += f"\t{k.split(".")[0]}\t{item[k]}"
                 # As long as the following columns are Source-Statements or qualifiers, ...
                 while i+1 < len(keys) and ((keys[i+1].startswith("S") and not keys[i+1][1].isalpha()) or keys[i+1].startswith("qal")):
                     k = keys[i+1]
