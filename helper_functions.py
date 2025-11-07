@@ -399,9 +399,10 @@ def query_factgrid(queryname):
     """
 
     building_complex_query = """
-    SELECT ?item ?GSVocabTerm WHERE{
+    SELECT ?item ?GSVocabTerm ?coords WHERE{
     ?item wdt:P2 wd:Q635758 .
-    ?item wdt:P1301 ?GSVocabTerm
+    ?item wdt:P1301 ?GSVocabTerm .
+    ?item wdt:P48 ?coords
         }
     """
 
